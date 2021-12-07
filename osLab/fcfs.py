@@ -43,7 +43,6 @@ if __name__ =="__main__":
     for i in range(1,n+1):
        p=i
     
- 
     # Burst time of all processes
     burst_time = []
     print("Enter burst time:")
